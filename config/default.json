@@ -1,0 +1,12 @@
+{
+  "app": {
+    "port": "3000",
+    "name": "hapi-starter-kit",
+    "logLevel": "info"
+  },
+  "db": {
+    "URI": "mongodb://localhost/dukandaari",
+    "port": 27017
+  }
+}
+  
